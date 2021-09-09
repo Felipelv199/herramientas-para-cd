@@ -1,9 +1,5 @@
 # Felipe López Valdez
 
-<style>
-    img[alt=me] { width: 200px; }
-</style>
-
 ![me](https://avatars.githubusercontent.com/u/47803931?s=400&u=91a453cb5f02fee48c199136fa68ac6e53df4c20&v=4)
 
 ## Hobbies
